@@ -5,6 +5,5 @@ Repositary Name : DevopsModule
 This repositary contains Module2 practical programs.
 
 In this module we push the files into GitHub.
-
 This line was changed locally.
-
+This line was changed on GitHub.
